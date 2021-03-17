@@ -1,0 +1,94 @@
+/* Themify Customize Styling */
+body {	
+	font-family: "Montserrat";	font-weight:100;
+ 
+}
+h2 {	
+	font-family: "Montserrat";	font-weight:100;
+ 
+}
+#header {	
+	font-family: "Montserrat";	font-weight:bold;
+	letter-spacing:2px;
+
+	color: #f6f6f6; 
+}
+#headerwrap a {	
+	color: #f6f6f6; 
+}
+#headerwrap a:hover {	
+	color: #cccccc; 
+}
+#pagewrap #headerwrap.fixed-header, .transparent-header #pagewrap #headerwrap.fixed-header {	background: none;
+	background-color: #222222; 
+}
+#headerwrap.fixed-header #header, #headerwrap.fixed-header #site-description {	
+	font-family: "Montserrat";	font-weight:500;
+ 
+}
+#headerwrap.fixed-header #header {	
+	color: #f6f6f6; 
+}
+body:not(.mobile_menu_active) #headerwrap.fixed-header #header a {	
+	color: #f6f6f6; 
+}
+body:not(.mobile_menu_active) #headerwrap.fixed-header #header a:hover {	
+	color: #cccccc; 
+}
+#main-nav a {	
+	font-family: "Montserrat";	font-weight:500;
+ 
+}
+#main-nav a, #main-nav > li > a, .transparent-header #main-nav a {	
+	color: #f6f6f6; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #f6f6f6; 
+}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #cccccc; 
+}
+#main-nav-wrap #main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #f6f6f6; 
+}
+#main-nav li:not(.themify-widget-menu) > ul, #main-nav .has-mega-sub-menu .mega-sub-menu, #main-nav .has-mega-column > .sub-menu {	background: none;
+	background-color: #222222; 
+}
+#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, #main-nav .has-mega-column > .sub-menu a, #main-nav .has-mega-sub-menu > .sub-menu a {	
+	font-family: "Montserrat";	font-weight:500;
+ 
+}
+#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, .fixed-header #main-nav ul a, #main-nav .has-mega-column > .sub-menu a, #main-nav .has-mega-sub-menu > .sub-menu a {	
+	color: #f6f6f6; 
+}
+#main-nav ul a:hover, #main-nav .current_page_item ul a:hover, #main-nav ul .current_page_item a:hover, #main-nav .current-menu-item ul a:hover, #main-nav ul .current-menu-item a:hover, .fixed-header #main-nav ul a:hover {	
+	color: #cccccc; 
+}
+body:not(.mobile_menu_active) #main-nav ul .current_page_item a, body:not(.mobile_menu_active) #main-nav ul .current-menu-item a, body:not(.mobile_menu_active) #main-nav .has-mega-column > .sub-menu .current-menu-item a body:not(.mobile_menu_active) #main-nav .has-sub-menu > .sub-menu .current-menu-item a, body:not(.mobile_menu_active) #main-nav .has-mega-column > .sub-menu .current-menu-item > a {	
+	color: #cccccc; 
+}
+#footerwrap {	background: none;
+	background-color: #222222; 
+}
+#footer {	
+	color: #f6f6f6; 
+}
+#footer, #footer-logo, .footer-nav a, .footer-text {	
+	font-family: "Montserrat";	font-weight:500;
+	letter-spacing:2px;
+ 
+}
+#footer a {	
+	font-family: "Montserrat";	font-weight:500;
+	letter-spacing:2px;
+
+	color: #f6f6f6; 
+}
+#footer a:hover {	
+	font-family: "Montserrat";	font-weight:500;
+
+	color: #cccccc; 
+}
+.footer-widgets .widget {	
+	color: #f6f6f6; 
+}
